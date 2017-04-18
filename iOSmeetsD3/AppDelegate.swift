@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  iOSmeetsD3
 //
-//  Created by mnkn on 18.04.17.
+//  Created by Sasha Prokhorenko on 18.04.17.
 //  Copyright © 2017 Minikin.me. All rights reserved.
 //
 
